@@ -1,6 +1,7 @@
 # A Self-Supervised Method for Blind Denoising of Seismic Shot Gathers
 
-
+Artifacts and source code of the experiments described in the thesis "A Self-supervised Method for Blind Denoising
+of Seismic Shot Gathers",  presented to the Programa de Pós–graduação em Informática of PUC-Rio.
 
 ```
   @phdthesis{bussonthesis2022,
